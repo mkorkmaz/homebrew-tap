@@ -1,2 +1,4 @@
 # homebrew-tap
-Temporary formulas waiting official relase under homebrew or some personal stuff
+
+- Temporary formulas waiting for official release under [Homebrew](http://brew.sh/).
+- Some personal formulas.
