@@ -30,5 +30,5 @@ $ brew uninstall php71-memcached
 
 
 ```bash
-$ brew untap cyfdecyf/homebrew-tap
+$ brew untap mkorkmaz/homebrew-tap
 ```
