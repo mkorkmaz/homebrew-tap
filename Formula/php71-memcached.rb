@@ -4,8 +4,7 @@ class Php71Memcached < AbstractPhp71Extension
   init
   desc "Memcached via libmemcached library"
   homepage "https://pecl.php.net/package/memcached"
-  head "https://github.com/php-memcached-dev/php-memcached.git"
-
+  head "https://github.com/php-memcached-dev/php-memcached.git", :branch => "php7"
 
 
   option "with-sasl", "Build with sasl support"

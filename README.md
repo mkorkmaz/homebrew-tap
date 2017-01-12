@@ -11,7 +11,7 @@ $ brew tap mkorkmaz/homebrew-tap
 
 ## Formulas
 
-### 1. PHP 7.1 Memcached Exension
+### 1. PHP 7.1 Memcached Extension
 
 #### Install
 
@@ -23,6 +23,32 @@ $ brew install --HEAD mkorkmaz/tap/php71-memcached
 
 ```bash
 $ brew uninstall php71-memcached
+```
+
+### 1. PHP 7.0 and 7.1 ZeroMQ Extension
+
+#### Install
+
+```bash
+$ brew install --HEAD mkorkmaz/tap/php70-zmq
+```
+
+or for PHP 7.1
+
+```bash
+$ brew install --HEAD mkorkmaz/tap/php71-zmq
+```
+
+#### Uninstall
+
+```bash
+$ brew uninstall php70-zmq
+```
+
+or for PHP 7.1
+
+```bash
+$ brew uninstall php71-zmq
 ```
 
 
