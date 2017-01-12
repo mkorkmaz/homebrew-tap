@@ -25,7 +25,7 @@ $ brew install --HEAD mkorkmaz/tap/php71-memcached
 $ brew uninstall php71-memcached
 ```
 
-### 1. PHP 7.0 and 7.1 ZeroMQ Extension
+### 1. PHP 7.0 and 7.1 ZeroMQ Extensions
 
 #### Install
 
